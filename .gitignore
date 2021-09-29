@@ -7,3 +7,5 @@ artifacts
 
 .vscode
 .DS_Store
+
+hardhat.config.js
